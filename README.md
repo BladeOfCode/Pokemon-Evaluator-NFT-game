@@ -161,5 +161,5 @@ $ npm run polygon:verify:pokemons
 
 
 ## 💬 Contact
-Created by [@LESKOV](https://www.linkedin.com/in/abrahan-gerardo-marcano-rios-004357220/) - feel free to contact me!
+Created by [@Abrahan](https://www.linkedin.com/in/abrahan-gerardo-marcano-rios-004357220/) - feel free to contact me!
 
