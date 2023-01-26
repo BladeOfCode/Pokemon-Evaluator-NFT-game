@@ -2,7 +2,7 @@ require("@nomiclabs/hardhat-waffle")
 require("@nomiclabs/hardhat-solhint")
 require("@nomiclabs/hardhat-etherscan")
 require("solidity-coverage")
-require("dotenv").config()
+require("dotenv").config();
 require("solidity-docgen")
 require("hardhat-contract-sizer")
 
