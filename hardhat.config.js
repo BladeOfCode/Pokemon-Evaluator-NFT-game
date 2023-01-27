@@ -6,7 +6,7 @@ require("dotenv").config()
 require("solidity-docgen")
 require("hardhat-contract-sizer")
 
-const PRIVATE_KEY = process.env.PRIVATE_KEY
+const PRIVATE_KEY = process.env.PRIVATE_KEY | 0x
 
 task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
     const accounts = await hre.ethers.getSigners()
