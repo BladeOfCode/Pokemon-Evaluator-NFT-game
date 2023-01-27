@@ -35,7 +35,7 @@ module.exports = {
     },
     networks: {
         hardhat: {
-            initialBaseFeePerGas: 0,
+            initialBaseFeePerGas: 1,
         },
         goerli: {
             url: process.env.GOERLI_API,
